@@ -60,6 +60,8 @@
 
 <h2 align="center">Hi, I'm Muhammad Faatih 👋<br>I'm a junior developer with a big passion for learning and building cool things with technology. I'm constantly exploring new tools, frameworks, and ideas—always aiming to improve both my technical skills and personal growth.<br><br>I'm on a journey to become a better developer, one project at a time.<br>Thanks for stopping by and checking out my GitHub profile!</h2>
 
+<br clear="both">
+
 ###
 
 <div align="center">
